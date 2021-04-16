@@ -1,0 +1,174 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Roboto", sans-serif;
+}
+header {
+  color: white;
+  background-color: black;
+  overflow: hidden;
+  padding: 26px 0px;
+}
+.header_content {
+  width: 90%;
+  margin: auto;
+}
+.logo {
+  float: left;
+}
+.logo h1 {
+  font-family: "Zen Dots", cursive;
+}
+.navigation_bar {
+  float: right;
+
+  padding-top: 9px;
+}
+.navigation_bar ul {
+  list-style: none;
+}
+.navigation_bar ul li {
+  float: left;
+  font-size: 17px;
+  margin-right: 29px;
+  padding: 10px;
+}
+.navigation_bar ul li:hover {
+  background-color: #418ac6;
+}
+
+.main-contents {
+}
+.content-img {
+  width: 40%;
+
+  margin: auto;
+
+  padding-top: 70px;
+}
+.content-img img {
+}
+.features {
+  padding: 70px 0px;
+  text-align: center;
+  overflow: hidden;
+  width: 90%;
+  margin: auto;
+}
+.customizable {
+  width: 30%;
+  float: left;
+  margin-top: 11px;
+}
+.customizable img {
+}
+.customizable h3 {
+}
+.customizable p {
+}
+.valid-html {
+  width: 30%;
+  margin-left: 5%;
+  float: left;
+}
+..valid-html img {
+}
+..valid-html h3 {
+}
+..valid-html p {
+}
+.responsive {
+  width: 30%;
+
+  float: right;
+}
+.responsive img {
+}
+.responsive h3 {
+}
+.responsive p {
+}
+.article-section {
+  width: 90%;
+
+  margin: auto;
+
+  overflow: hidden;
+
+  padding: 90px;
+}
+.left-article {
+  width: 45%;
+
+  float: left;
+
+  text-align: center;
+}
+.left-article h3 {
+  padding-bottom: 30px;
+}
+.left-article p {
+}
+.left-article img {
+}
+.right-article {
+  width: 45%;
+
+  float: right;
+
+  text-align: center;
+}
+.right-article h3 {
+  padding-bottom: 30px;
+}
+.right-article p {
+}
+.right-article img {
+}
+.big-images {
+  width: 90%;
+
+  margin: auto;
+
+  overflow: hidden;
+}
+.left-image {
+  float: left;
+}
+.left-image img {
+}
+.right-image {
+  float: right;
+}
+.right-image img {
+}
+footer {
+  text-align: center;
+  background-color: black;
+}
+.top-footer {
+}
+
+.top-footer p {
+  display: inline;
+  color: #A1A1A2;
+}
+.lower-footer {
+    padding: 30px;
+}
+.lower-footer h4 {
+  display: inline;
+  color: #6090C3;
+}
+.lower-footer p {
+    display: inline;
+    color: #A1A1A2;
+}
+.footer-images {
+  padding: 30px;
+  ;
+}
+.footer-images img {
+  width: 17px;
+  margin-right: 22px;
+}
